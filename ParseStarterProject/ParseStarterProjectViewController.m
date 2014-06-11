@@ -20,7 +20,6 @@
 
 - (IBAction)saveData:(id)sender {
     
-    
     NSString *firstNameString = firstName.text;
     NSString *lastNameString = lastName.text;
     NSString *emailString = email.text;
